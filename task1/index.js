@@ -90,9 +90,6 @@ const iceCreamAction = (id) =>{
     return buyIceCream(iceCreams);
 }
 
-
-
-
 const store = createStore(reducer)
 console.log('initial  state',store.getState())
 
