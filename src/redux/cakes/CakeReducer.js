@@ -1,4 +1,3 @@
-import CakeContainer from "../../components/CakeContainer"
 
 const { BUY_CAKE } = require("./CakeTypes")
 
